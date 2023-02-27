@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-This Meilisearch community
+This is Meilisearch community
