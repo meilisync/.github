@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-This is Meilisearch community
+This is Meilisync
